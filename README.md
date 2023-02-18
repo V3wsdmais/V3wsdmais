@@ -8,7 +8,7 @@
 ![Gugu GitHub stats](https://github-readme-stats.vercel.app/api?username=V3wsdmais&show_icons=true&theme=onedark)
 
 
-Tecnologias que estudo atualmente!
+Meus Cursos atualmente.
 
 <div style="display: inline_block"><br/>>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -17,3 +17,4 @@ Tecnologias que estudo atualmente!
 <div><br/>
 
 ### O poder da Ação 
+
