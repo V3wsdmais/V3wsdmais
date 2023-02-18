@@ -5,8 +5,8 @@
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gutemberg--oliveira)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pudinsesequilhos/)
 
+![Gugu GitHub stats](https://github-readme-stats.vercel.app/api?username=V3wsdmais&show_icons=true&theme=onedark)
 
-![Gugu GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugu&show_icons=true&theme=onedark)
 
 Tecnologias que estudo atualmente!
 
@@ -17,4 +17,3 @@ Tecnologias que estudo atualmente!
 <div><br/>
 
 ### O poder da Ação 
-
